@@ -1,0 +1,659 @@
+{
+  "regions": [
+    {
+      "region_code": 201,
+      "region_name": "Aceh",
+      "talkgroups": [
+        {"tgid": 20101, "callsign": "Aceh Selatan", "id": "20101"},
+        {"tgid": 20102, "callsign": "Aceh Tenggara", "id": "20102"},
+        {"tgid": 20103, "callsign": "Aceh Timur", "id": "20103"},
+        {"tgid": 20104, "callsign": "Aceh Tengah", "id": "20104"},
+        {"tgid": 20105, "callsign": "Aceh Barat", "id": "20105"},
+        {"tgid": 20106, "callsign": "Aceh Besar", "id": "20106"},
+        {"tgid": 20107, "callsign": "Pidie", "id": "20107"},
+        {"tgid": 20108, "callsign": "Aceh Utara", "id": "20108"},
+        {"tgid": 20109, "callsign": "Simeulue", "id": "20109"},
+        {"tgid": 2011, "callsign": "Aceh Singkil", "id": "2011"},
+        {"tgid": 20111, "callsign": "Bireuen", "id": "20111"},
+        {"tgid": 20112, "callsign": "Aceh Barat Daya", "id": "20112"},
+        {"tgid": 20113, "callsign": "Gayo Lues", "id": "20113"},
+        {"tgid": 20114, "callsign": "Aceh Jaya", "id": "20114"},
+        {"tgid": 20115, "callsign": "Nagan Raya", "id": "20115"},
+        {"tgid": 20116, "callsign": "Aceh Tamiang", "id": "20116"},
+        {"tgid": 20117, "callsign": "Bener Meriah", "id": "20117"},
+        {"tgid": 20118, "callsign": "Pidie Jaya", "id": "20118"},
+        {"tgid": 20171, "callsign": "Banda Aceh", "id": "20171"},
+        {"tgid": 20172, "callsign": "Sabang", "id": "20172"},
+        {"tgid": 20173, "callsign": "Lhokseumawe", "id": "20173"},
+        {"tgid": 20174, "callsign": "Langsa", "id": "20174"},
+        {"tgid": 20175, "callsign": "Subulussalam", "id": "20175"}
+      ]
+    },
+    {
+      "region_code": 202,
+      "region_name": "Sumatera Utara",
+      "talkgroups": [
+        {"tgid": 20201, "callsign": "Tapanuli Tengah", "id": "20201"},
+        {"tgid": 20202, "callsign": "Tapanuli Utara", "id": "20202"},
+        {"tgid": 20203, "callsign": "Tapanuli Selatan", "id": "20203"},
+        {"tgid": 20204, "callsign": "Nias", "id": "20204"},
+        {"tgid": 20205, "callsign": "Langkat", "id": "20205"},
+        {"tgid": 20206, "callsign": "Karo", "id": "20206"},
+        {"tgid": 20207, "callsign": "Deli Serdang", "id": "20207"},
+        {"tgid": 20208, "callsign": "Simalungun", "id": "20208"},
+        {"tgid": 20209, "callsign": "Asahan", "id": "20209"},
+        {"tgid": 2021, "callsign": "Labuhanbatu", "id": "2021"},
+        {"tgid": 20211, "callsign": "Dairi", "id": "20211"},
+        {"tgid": 20212, "callsign": "Toba Samosir", "id": "20212"},
+        {"tgid": 20213, "callsign": "Mandailing Natal", "id": "20213"},
+        {"tgid": 20214, "callsign": "Nias Selatan", "id": "20214"},
+        {"tgid": 20215, "callsign": "Pakpak Bharat", "id": "20215"},
+        {"tgid": 20216, "callsign": "Humbang Hasundutan", "id": "20216"},
+        {"tgid": 20217, "callsign": "Samosir", "id": "20217"},
+        {"tgid": 20218, "callsign": "Serdang Bedagai", "id": "20218"},
+        {"tgid": 20219, "callsign": "Batu Bara", "id": "20219"},
+        {"tgid": 2022, "callsign": "Padang Lawas Utara", "id": "2022"},
+        {"tgid": 20221, "callsign": "Padang Lawas", "id": "20221"},
+        {"tgid": 20222, "callsign": "Labuhanbatu Selatan", "id": "20222"},
+        {"tgid": 20223, "callsign": "Labuhanbatu Utara", "id": "20223"},
+        {"tgid": 20224, "callsign": "Nias Utara", "id": "20224"},
+        {"tgid": 20225, "callsign": "Nias Barat", "id": "20225"},
+        {"tgid": 20271, "callsign": "Medan", "id": "20271"},
+        {"tgid": 20272, "callsign": "Pematang Siantar", "id": "20272"},
+        {"tgid": 20273, "callsign": "Sibolga", "id": "20273"},
+        {"tgid": 20274, "callsign": "Tanjung Balai", "id": "20274"},
+        {"tgid": 20275, "callsign": "Binjai", "id": "20275"},
+        {"tgid": 20276, "callsign": "Tebing Tinggi", "id": "20276"},
+        {"tgid": 20277, "callsign": "Padang Sidempuan", "id": "20277"},
+        {"tgid": 20378, "callsign": "Gunung Sitoli", "id": "20378"}
+      ]
+    },
+    {
+      "region_code": 203,
+      "region_name": "Sumatera Barat",
+      "talkgroups": [
+        {"tgid": 20301, "callsign": "Pesisir Selatan", "id": "20301"},
+        {"tgid": 20302, "callsign": "Solok", "id": "20302"},
+        {"tgid": 20303, "callsign": "Sijunjung", "id": "20303"},
+        {"tgid": 20304, "callsign": "Tanah Datar", "id": "20304"},
+        {"tgid": 20305, "callsign": "Padang Pariaman", "id": "20305"},
+        {"tgid": 20306, "callsign": "Agam", "id": "20306"},
+        {"tgid": 20307, "callsign": "Lima Puluh Kota", "id": "20307"},
+        {"tgid": 20308, "callsign": "Pasaman", "id": "20308"},
+        {"tgid": 20309, "callsign": "Kepulauan Mentawai", "id": "20309"},
+        {"tgid": 2031, "callsign": "Dharmasraya", "id": "2031"},
+        {"tgid": 20311, "callsign": "Solok Selatan", "id": "20311"},
+        {"tgid": 20312, "callsign": "Pasaman Barat", "id": "20312"},
+        {"tgid": 20371, "callsign": "Padang", "id": "20371"},
+        {"tgid": 20372, "callsign": "Solok", "id": "20372"},
+        {"tgid": 20373, "callsign": "Sawahlunto", "id": "20373"},
+        {"tgid": 20374, "callsign": "Padangpanjang", "id": "20374"},
+        {"tgid": 20375, "callsign": "Bukittinggi", "id": "20375"},
+        {"tgid": 20376, "callsign": "Payakumbuh", "id": "20376"},
+        {"tgid": 20377, "callsign": "Pariaman", "id": "20377"}
+      ]
+    },
+    {
+      "region_code": 204,
+      "region_name": "Riau",
+      "talkgroups": [
+        {"tgid": 20401, "callsign": "Kampar", "id": "20401"},
+        {"tgid": 20402, "callsign": "Indragiri Hulu", "id": "20402"},
+        {"tgid": 20403, "callsign": "Bengkalis", "id": "20403"},
+        {"tgid": 20404, "callsign": "Indragiri Hilir", "id": "20404"},
+        {"tgid": 20405, "callsign": "Pelalawan", "id": "20405"},
+        {"tgid": 20406, "callsign": "Rokan Hulu", "id": "20406"},
+        {"tgid": 20407, "callsign": "Rokan Hilir", "id": "20407"},
+        {"tgid": 20408, "callsign": "Siak", "id": "20408"},
+        {"tgid": 20409, "callsign": "Kuantan Singingi", "id": "20409"},
+        {"tgid": 2041, "callsign": "Kepulauan Meranti", "id": "2041"},
+        {"tgid": 20471, "callsign": "Pekanbaru", "id": "20471"},
+        {"tgid": 20472, "callsign": "Dumai", "id": "20472"}
+      ]
+    },
+    {
+      "region_code": 205,
+      "region_name": "Jambi",
+      "talkgroups": [
+        {"tgid": 20501, "callsign": "Kerinci", "id": "20501"},
+        {"tgid": 20502, "callsign": "Merangin", "id": "20502"},
+        {"tgid": 20503, "callsign": "Sarolangun", "id": "20503"},
+        {"tgid": 20504, "callsign": "Batanghari", "id": "20504"},
+        {"tgid": 20505, "callsign": "Muaro Jambi", "id": "20505"},
+        {"tgid": 20506, "callsign": "Tanjung Jabung Barat", "id": "20506"},
+        {"tgid": 20507, "callsign": "Tanjung Jabung Timur", "id": "20507"},
+        {"tgid": 20508, "callsign": "Bungo", "id": "20508"},
+        {"tgid": 20509, "callsign": "Tebo", "id": "20509"}
+      ]
+    },
+    {
+      "region_code": 206,
+      "region_name": "Sumatera Selatan",
+      "talkgroups": [
+        {"tgid": 20601, "callsign": "Ogan Komering Ulu", "id": "20601"},
+        {"tgid": 20602, "callsign": "Ogan Komering Ilir", "id": "20602"},
+        {"tgid": 20603, "callsign": "Muara Enim", "id": "20603"},
+        {"tgid": 20604, "callsign": "Lahat", "id": "20604"},
+        {"tgid": 20605, "callsign": "Musi Rawas", "id": "20605"},
+        {"tgid": 20606, "callsign": "Musi Banyuasin", "id": "20606"},
+        {"tgid": 20607, "callsign": "Banyuasin", "id": "20607"},
+        {"tgid": 20608, "callsign": "Ogan Komering Ulu Timur", "id": "20608"},
+        {"tgid": 20609, "callsign": "Ogan Komering Ulu Selatan", "id": "20609"},
+        {"tgid": 2061, "callsign": "Ogan Ilir", "id": "2061"},
+        {"tgid": 20611, "callsign": "Empat Lawang", "id": "20611"}
+      ]
+    },
+    {
+      "region_code": 207,
+      "region_name": "Bengkulu",
+      "talkgroups": [
+        {"tgid": 20701, "callsign": "Bengkulu Selatan", "id": "20701"},
+        {"tgid": 20702, "callsign": "Rejang Lebong", "id": "20702"},
+        {"tgid": 20703, "callsign": "Bengkulu Utara", "id": "20703"},
+        {"tgid": 20704, "callsign": "Kaur", "id": "20704"},
+        {"tgid": 20705, "callsign": "Seluma", "id": "20705"},
+        {"tgid": 20706, "callsign": "Mukomuko", "id": "20706"},
+        {"tgid": 20707, "callsign": "Lebong", "id": "20707"},
+        {"tgid": 20708, "callsign": "Kepahiang", "id": "20708"},
+        {"tgid": 20709, "callsign": "Bengkulu Tengah", "id": "20709"}
+      ]
+    },
+    {
+      "region_code": 208,
+      "region_name": "Lampung",
+      "talkgroups": [
+        {"tgid": 20801, "callsign": "Lampung Selatan", "id": "20801"},
+        {"tgid": 20802, "callsign": "Lampung Tengah", "id": "20802"},
+        {"tgid": 20803, "callsign": "Lampung Utara", "id": "20803"},
+        {"tgid": 20804, "callsign": "Lampung Barat", "id": "20804"},
+        {"tgid": 20805, "callsign": "Tulang Bawang", "id": "20805"},
+        {"tgid": 20806, "callsign": "Tenggamus", "id": "20806"},
+        {"tgid": 20807, "callsign": "Lampung Timur", "id": "20807"},
+        {"tgid": 20808, "callsign": "Way Kanan", "id": "20808"},
+        {"tgid": 20809, "callsign": "Pesawaran", "id": "20809"}
+      ]
+    },
+    {
+      "region_code": 209,
+      "region_name": "Bangka Belitung",
+      "talkgroups": [
+        {"tgid": 20901, "callsign": "Kepulauan Seribu", "id": "20901"}
+      ]
+    },
+    {
+      "region_code": 210,
+      "region_name": "Jawa Barat",
+      "talkgroups": [
+        {"tgid": 21001, "callsign": "Bogor", "id": "21001"},
+        {"tgid": 21002, "callsign": "Sukabumi", "id": "21002"},
+        {"tgid": 21003, "callsign": "Cianjur", "id": "21003"},
+        {"tgid": 21004, "callsign": "Bandung", "id": "21004"},
+        {"tgid": 21005, "callsign": "Garut", "id": "21005"},
+        {"tgid": 21006, "callsign": "Tasikmalaya", "id": "21006"},
+        {"tgid": 21007, "callsign": "Ciamis", "id": "21007"},
+        {"tgid": 21008, "callsign": "Kuningan", "id": "21008"},
+        {"tgid": 2101, "callsign": "Majalengka", "id": "2101"},
+        {"tgid": 21011, "callsign": "Sumedang", "id": "21011"},
+        {"tgid": 21012, "callsign": "Indramayu", "id": "21012"},
+        {"tgid": 21013, "callsign": "Subang", "id": "21013"},
+        {"tgid": 21014, "callsign": "Purwakarta", "id": "21014"},
+        {"tgid": 21015, "callsign": "Karawang", "id": "21015"},
+        {"tgid": 21016, "callsign": "Bekasi", "id": "21016"},
+        {"tgid": 21017, "callsign": "Bandung Barat", "id": "21017"},
+        {"tgid": 21018, "callsign": "Pangandaran", "id": "21018"},
+        {"tgid": 21071, "callsign": "Bogor", "id": "21071"},
+        {"tgid": 21072, "callsign": "Sukabumi", "id": "21072"},
+        {"tgid": 21073, "callsign": "Bandung", "id": "21073"},
+        {"tgid": 21074, "callsign": "Cirebon", "id": "21074"},
+        {"tgid": 21075, "callsign": "Bekasi", "id": "21075"},
+        {"tgid": 21076, "callsign": "Depok", "id": "21076"},
+        {"tgid": 21077, "callsign": "Cimahi", "id": "21077"},
+        {"tgid": 21078, "callsign": "Tasikmalaya", "id": "21078"},
+        {"tgid": 21079, "callsign": "Banjar", "id": "21079"}
+      ]
+    },
+    {
+      "region_code": 211,
+      "region_name": "Jawa Tengah",
+      "talkgroups": [
+        {"tgid": 21101, "callsign": "Cilacap", "id": "21101"},
+        {"tgid": 21102, "callsign": "Banyumas", "id": "21102"},
+        {"tgid": 21103, "callsign": "Purbalingga", "id": "21103"},
+        {"tgid": 21104, "callsign": "Banjarnegara", "id": "21104"},
+        {"tgid": 21105, "callsign": "Kebumen", "id": "21105"},
+        {"tgid": 21106, "callsign": "Purworejo", "id": "21106"},
+        {"tgid": 21107, "callsign": "Wonosobo", "id": "21107"},
+        {"tgid": 21108, "callsign": "Magelang", "id": "21108"},
+        {"tgid": 21109, "callsign": "Boyolali", "id": "21109"},
+        {"tgid": 2111, "callsign": "Klaten", "id": "2111"},
+        {"tgid": 21111, "callsign": "Sukoharjo", "id": "21111"},
+        {"tgid": 21112, "callsign": "Wonogiri", "id": "21112"},
+        {"tgid": 21113, "callsign": "Karanganyar", "id": "21113"},
+        {"tgid": 21114, "callsign": "Sragen", "id": "21114"},
+        {"tgid": 21115, "callsign": "Grobogan", "id": "21115"}
+        {"tgid": 21116, "callsign": "Blora", "id": "21116"},
+        {"tgid": 21117, "callsign": "Rembang", "id": "21117"},
+        {"tgid": 21118, "callsign": "Pati", "id": "21118"},
+        {"tgid": 21119, "callsign": "Kudus", "id": "21119"},
+        {"tgid": 2112, "callsign": "Jepara", "id": "2112"},
+        {"tgid": 21121, "callsign": "Demak", "id": "21121"},
+        {"tgid": 21122, "callsign": "Semarang", "id": "21122"},
+        {"tgid": 21123, "callsign": "Temanggung", "id": "21123"},
+        {"tgid": 21124, "callsign": "Kendal", "id": "21124"},
+        {"tgid": 21125, "callsign": "Batang", "id": "21125"},
+        {"tgid": 21126, "callsign": "Pekalongan", "id": "21126"},
+        {"tgid": 21127, "callsign": "Pemalang", "id": "21127"},
+        {"tgid": 21128, "callsign": "Tegal", "id": "21128"},
+        {"tgid": 21129, "callsign": "Brebes", "id": "21129"}
+      ]
+    },
+    {
+      "region_code": 212,
+      "region_name": "DI Yogyakarta",
+      "talkgroups": [
+        {"tgid": 21201, "callsign": "Kulon Progo", "id": "21201"},
+        {"tgid": 21202, "callsign": "Bantul", "id": "21202"},
+        {"tgid": 21203, "callsign": "Gunung Kidul", "id": "21203"},
+        {"tgid": 21204, "callsign": "Sleman", "id": "21204"},
+        {"tgid": 21271, "callsign": "Yogyakarta", "id": "21271"}
+      ]
+    },
+    {
+      "region_code": 213,
+      "region_name": "Jawa Timur",
+      "talkgroups": [
+        {"tgid": 21301, "callsign": "Pacitan", "id": "21301"},
+        {"tgid": 21302, "callsign": "Ponorogo", "id": "21302"},
+        {"tgid": 21303, "callsign": "Trenggalek", "id": "21303"},
+        {"tgid": 21304, "callsign": "Tulungagung", "id": "21304"},
+        {"tgid": 21305, "callsign": "Blitar", "id": "21305"},
+        {"tgid": 21306, "callsign": "Kediri", "id": "21306"},
+        {"tgid": 21307, "callsign": "Malang", "id": "21307"},
+        {"tgid": 21308, "callsign": "Lumajang", "id": "21308"},
+        {"tgid": 21309, "callsign": "Jember", "id": "21309"},
+        {"tgid": 2131, "callsign": "Banyuwangi", "id": "2131"},
+        {"tgid": 21311, "callsign": "Bondowoso", "id": "21311"},
+        {"tgid": 21312, "callsign": "Situbondo", "id": "21312"},
+        {"tgid": 21313, "callsign": "Probolinggo", "id": "21313"},
+        {"tgid": 21314, "callsign": "Pasuruan", "id": "21314"},
+        {"tgid": 21315, "callsign": "Sidoarjo", "id": "21315"},
+        {"tgid": 21316, "callsign": "Mojokerto", "id": "21316"},
+        {"tgid": 21317, "callsign": "Jombang", "id": "21317"},
+        {"tgid": 21318, "callsign": "Nganjuk", "id": "21318"},
+        {"tgid": 21319, "callsign": "Madiun", "id": "21319"},
+        {"tgid": 2132, "callsign": "Magetan", "id": "2132"},
+        {"tgid": 21321, "callsign": "Ngawi", "id": "21321"},
+        {"tgid": 21322, "callsign": "Bojonegoro", "id": "21322"},
+        {"tgid": 21323, "callsign": "Tuban", "id": "21323"},
+        {"tgid": 21324, "callsign": "Lamongan", "id": "21324"},
+        {"tgid": 21325, "callsign": "Gresik", "id": "21325"},
+        {"tgid": 21326, "callsign": "Bangkalan", "id": "21326"},
+        {"tgid": 21327, "callsign": "Sampang", "id": "21327"},
+        {"tgid": 21328, "callsign": "Pamekasan", "id": "21328"},
+        {"tgid": 21329, "callsign": "Sumenep", "id": "21329"}
+      ]
+    },
+    {
+      "region_code": 230,
+      "region_name": "Banten",
+      "talkgroups": [
+        {"tgid": 23001, "callsign": "Pandegelang", "id": "23001"},
+        {"tgid": 23002, "callsign": "Lebak", "id": "23002"},
+        {"tgid": 23003, "callsign": "Tangerang", "id": "23003"},
+        {"tgid": 23004, "callsign": "Serang", "id": "23004"},
+        {"tgid": 23071, "callsign": "Tangerang", "id": "23071"},
+        {"tgid": 23072, "callsign": "Cilegon", "id": "23072"},
+        {"tgid": 23073, "callsign": "Serang", "id": "23073"},
+        {"tgid": 23074, "callsign": "Tangerang Selatan", "id": "23074"}
+  ]
+},
+{
+  "region_code": 214,
+  "region_name": "Bali",
+  "talkgroups": [
+    {"tgid": 21401, "callsign": "Jembrana", "id": "21401"},
+    {"tgid": 21402, "callsign": "Tabanan", "id": "21402"},
+        {"tgid": 21403, "callsign": "Badung", "id": "21403"},
+        {"tgid": 21404, "callsign": "Gianyar", "id": "21404"},
+        {"tgid": 21405, "callsign": "Klungkung", "id": "21405"},
+        {"tgid": 21406, "callsign": "Bangli", "id": "21406"},
+        {"tgid": 21407, "callsign": "Karangasem", "id": "21407"},
+        {"tgid": 21408, "callsign": "Buleleng", "id": "21408"},
+        {"tgid": 21471, "callsign": "Denpasar", "id": "21471"}
+      ]
+    },
+    {
+      "region_code": 215,
+      "region_name": "Nusa Tenggara Barat",
+      "talkgroups": [
+        {"tgid": 21501, "callsign": "Lombok Barat", "id": "21501"},
+        {"tgid": 21502, "callsign": "Lombok Tengah", "id": "21502"},
+        {"tgid": 21503, "callsign": "Lombok Timur", "id": "21503"},
+        {"tgid": 21504, "callsign": "Sumbawa", "id": "21504"},
+        {"tgid": 21505, "callsign": "Dompu", "id": "21505"},
+        {"tgid": 21506, "callsign": "Bima", "id": "21506"},
+        {"tgid": 21507, "callsign": "Sumbawa Barat", "id": "21507"},
+        {"tgid": 21508, "callsign": "Lombok Utara", "id": "21508"},
+        {"tgid": 21571, "callsign": "Mataram", "id": "21571"},
+        {"tgid": 21572, "callsign": "Bima", "id": "21572"}
+      ]
+    },
+    {
+      "region_code": 216,
+      "region_name": "Nusa Tenggara Timur",
+      "talkgroups": [
+        {"tgid": 21601, "callsign": "Kupang", "id": "21601"},
+        {"tgid": 21602, "callsign": "Timor Tengah Selatan", "id": "21602"},
+        {"tgid": 21603, "callsign": "Timor Tengah Utara", "id": "21603"},
+        {"tgid": 21604, "callsign": "Belu", "id": "21604"},
+        {"tgid": 21605, "callsign": "Alor", "id": "21605"},
+        {"tgid": 21606, "callsign": "Flores Timur", "id": "21606"},
+        {"tgid": 21607, "callsign": "Sikka", "id": "21607"},
+        {"tgid": 21608, "callsign": "Ende", "id": "21608"},
+        {"tgid": 21609, "callsign": "Ngada", "id": "21609"},
+        {"tgid": 2161, "callsign": "Manggarai", "id": "2161"},
+        {"tgid": 21611, "callsign": "Sumba Timur", "id": "21611"},
+        {"tgid": 21612, "callsign": "Sumba Barat", "id": "21612"},
+        {"tgid": 21613, "callsign": "Lembata", "id": "21613"},
+        {"tgid": 21614, "callsign": "Rote Ndao", "id": "21614"},
+        {"tgid": 21615, "callsign": "Manggarai Barat", "id": "21615"},
+        {"tgid": 21616, "callsign": "Nagekeo", "id": "21616"},
+        {"tgid": 21617, "callsign": "Sumba Tengah", "id": "21617"},
+        {"tgid": 21618, "callsign": "Sumba Barat Daya", "id": "21618"},
+        {"tgid": 21619, "callsign": "Manggarai Timur", "id": "21619"},
+        {"tgid": 2162, "callsign": "Sabu Raijua", "id": "2162"},
+        {"tgid": 21621, "callsign": "Malaka", "id": "21621"},
+        {"tgid": 21671, "callsign": "Kupang", "id": "21671"}
+      ]
+    },
+    {
+      "region_code": 221,
+      "region_name": "Kalimantan Barat",
+      "talkgroups": [
+        {"tgid": 22101, "callsign": "Sambas", "id": "22101"},
+        {"tgid": 22102, "callsign": "Mempawah", "id": "22102"},
+        {"tgid": 22103, "callsign": "Sanggau", "id": "22103"},
+        {"tgid": 22104, "callsign": "Ketapang", "id": "22104"},
+        {"tgid": 22105, "callsign": "Sintang", "id": "22105"},
+        {"tgid": 22106, "callsign": "Kapuas Hulu", "id": "22106"},
+        {"tgid": 22107, "callsign": "Bengkayang", "id": "22107"},
+        {"tgid": 22108, "callsign": "Landak", "id": "22108"},
+        {"tgid": 22109, "callsign": "Sekadau", "id": "22109"},
+        {"tgid": 2211, "callsign": "Melawi", "id": "2211"},
+        {"tgid": 22111, "callsign": "Kayong Utara", "id": "22111"},
+        {"tgid": 22112, "callsign": "Kubu Raya", "id": "22112"},
+        {"tgid": 22171, "callsign": "Pontianak", "id": "22171"},
+        {"tgid": 22172, "callsign": "Singkawang", "id": "22172"}
+      ]
+    },
+    {
+      "region_code": 220,
+      "region_name": "Kalimantan Tengah",
+      "talkgroups": [
+        {"tgid": 22001, "callsign": "Kotawaringin Barat", "id": "22001"},
+        {"tgid": 22002, "callsign": "Kotawaringin Timur", "id": "22002"},
+        {"tgid": 22003, "callsign": "Kapuas", "id": "22003"},
+        {"tgid": 22004, "callsign": "Barito Selatan", "id": "22004"},
+        {"tgid": 22005, "callsign": "Barito Utara", "id": "22005"},
+        {"tgid": 22006, "callsign": "Katingan", "id": "22006"},
+        {"tgid": 22007, "callsign": "Seruyan", "id": "22007"},
+        {"tgid": 22008, "callsign": "Sukamara", "id": "22008"},
+        {"tgid": 22009, "callsign": "Lamandau", "id": "22009"},
+        {"tgid": 2201, "callsign": "Gunung Mas", "id": "2201"},
+        {"tgid": 22011, "callsign": "Pulang Pisau", "id": "22011"},
+        {"tgid": 22012, "callsign": "Murung Raya", "id": "22012"},
+        {"tgid": 22013, "callsign": "Barito Timur", "id": "22013"},
+        {"tgid": 22071, "callsign": "Palangka Raya", "id": "22071"}
+      ]
+    },
+    {
+  "region_code": 219,
+  "region_name": "Kalimantan Selatan",
+  "talkgroups": [
+    {"tgid": 21904, "callsign": "Barito Kuala", "id": "21904"},
+    {"tgid": 21905, "callsign": "Tapin", "id": "21905"},
+    {"tgid": 21906, "callsign": "Hulu Sungai Selatan", "id": "21906"},
+    {"tgid": 21907, "callsign": "Hulu Sungai Tengah", "id": "21907"},
+    {"tgid": 21908, "callsign": "Hulu Sungai Utara", "id": "21908"},
+    {"tgid": 21909, "callsign": "Tabalong", "id": "21909"},
+    {"tgid": 2191, "callsign": "Tanah Bumbu", "id": "2191"},
+    {"tgid": 21911, "callsign": "Balangan", "id": "21911"},
+    {"tgid": 21971, "callsign": "Banjarmasin", "id": "21971"},
+    {"tgid": 21972, "callsign": "Banjarbaru", "id": "21972"}
+  ]
+},
+{
+  "region_code": 218,
+  "region_name": "Kalimantan Timur",
+  "talkgroups": [
+    {"tgid": 21801, "callsign": "Paser", "id": "21801"},
+    {"tgid": 21802, "callsign": "Kutai Kartanegara", "id": "21802"},
+    {"tgid": 21803, "callsign": "Berau", "id": "21803"},
+    {"tgid": 21807, "callsign": "Kutai Barat", "id": "21807"},
+    {"tgid": 21808, "callsign": "Kutai Timur", "id": "21808"},
+    {"tgid": 21809, "callsign": "Panajam Paser Utara", "id": "21809"},
+    {"tgid": 21811, "callsign": "Mahakam Ulu", "id": "21811"},
+    {"tgid": 21871, "callsign": "Balikpapan", "id": "21871"},
+    {"tgid": 21872, "callsign": "Samarinda", "id": "21872"},
+    {"tgid": 21874, "callsign": "Bontang", "id": "21874"}
+  ]
+},
+{
+  "region_code": 217,
+  "region_name": "Kalimantan Utara",
+  "talkgroups": [
+    {"tgid": 21701, "callsign": "Bulungan", "id": "21701"},
+    {"tgid": 21702, "callsign": "Malinau", "id": "21702"},
+    {"tgid": 21703, "callsign": "Nunukan", "id": "21703"},
+    {"tgid": 21704, "callsign": "Tana Tidung", "id": "21704"},
+    {"tgid": 21771, "callsign": "Tarakan", "id": "21771"}
+  ]
+},
+{
+  "region_code": 222,
+  "region_name": "Sulawesi Utara",
+  "talkgroups": [
+    {"tgid": 22201, "callsign": "Bolaang Mongondow", "id": "22201"},
+    {"tgid": 22202, "callsign": "Minahasa", "id": "22202"},
+    {"tgid": 22203, "callsign": "Kepulauan Sangihe", "id": "22203"},
+    {"tgid": 22204, "callsign": "Kepulauan Talaud", "id": "22204"},
+    {"tgid": 22205, "callsign": "Minahasa Selatan", "id": "22205"},
+    {"tgid": 22206, "callsign": "Minahasa Utara", "id": "22206"},
+    {"tgid": 22207, "callsign": "Minahasa Tenggara", "id": "22207"},
+    {"tgid": 22208, "callsign": "Bolaang Mongondow Utara", "id": "22208"},
+    {"tgid": 22209, "callsign": "Siau Tagulandang Biaro", "id": "22209"},
+    {"tgid": 2221, "callsign": "Bolaang Mongondow Timur", "id": "2221"},
+    {"tgid": 22211, "callsign": "Bolaang Mongondow Selatan", "id": "22211"},
+    {"tgid": 22271, "callsign": "Manado", "id": "22271"},
+    {"tgid": 22272, "callsign": "Bitung", "id": "22272"},
+    {"tgid": 22273, "callsign": "Tomohon", "id": "22273"},
+    {"tgid": 22274, "callsign": "Kotamobagu", "id": "22274"}
+  ]
+},
+{
+  "region_code": 223,
+  "region_name": "Sulawesi Tengah",
+  "talkgroups": [
+    {"tgid": 22301, "callsign": "Banggai", "id": "22301"},
+    {"tgid": 22302, "callsign": "Poso", "id": "22302"},
+    {"tgid": 22303, "callsign": "Donggala", "id": "22303"},
+    {"tgid": 22304, "callsign": "Tolitoli", "id": "22304"},
+    {"tgid": 22305, "callsign": "Buol", "id": "22305"},
+    {"tgid": 22306, "callsign": "Morowali", "id": "22306"},
+    {"tgid": 22307, "callsign": "Banggai Kepulauan", "id": "22307"},
+    {"tgid": 22308, "callsign": "Parigi Moutong", "id": "22308"},
+    {"tgid": 22309, "callsign": "Tojo Una-una", "id": "22309"},
+    {"tgid": 2231, "callsign": "Sigi", "id": "2231"},
+    {"tgid": 22311, "callsign": "Banggai Laut", "id": "22311"},
+    {"tgid": 22312, "callsign": "Morowali Utara", "id": "22312"},
+    {"tgid": 22371, "callsign": "Palu", "id": "22371"}
+  ]
+},
+{
+  "region_code": 224,
+  "region_name": "Sulawesi Selatan",
+  "talkgroups": [
+    {"tgid": 22401, "callsign": "Kepulauan Selayar", "id": "22401"},
+    {"tgid": 22402, "callsign": "Bulukumba", "id": "22402"},
+    {"tgid": 22403, "callsign": "Bantaeng", "id": "22403"},
+    {"tgid": 22404, "callsign": "Jeneponto", "id": "22404"},
+    {"tgid": 22405, "callsign": "Takalar", "id": "22405"},
+    {"tgid": 22406, "callsign": "Gowa", "id": "22406"},
+    {"tgid": 22407, "callsign": "Sinjai", "id": "22407"},
+    {"tgid": 22408, "callsign": "Bone", "id": "22408"},
+    {"tgid": 22409, "callsign": "Maros", "id": "22409"},
+    {"tgid": 2241, "callsign": "Pangkajene dan Kepulauan", "id": "2241"},
+    {"tgid": 22411, "callsign": "Barru", "id": "22411"},
+    {"tgid": 22412, "callsign": "Soppeng", "id": "22412"},
+    {"tgid": 22413, "callsign": "Wajo", "id": "22413"},
+    {"tgid": 22414, "callsign": "Sidenreng Rappang", "id": "22414"},
+    {"tgid": 22415, "callsign": "Pinrang", "id": "22415"},
+    {"tgid": 22416, "callsign": "Enrekang", "id": "22416"},
+    {"tgid": 22417, "callsign": "Luwu", "id": "22417"},
+    {"tgid": 22418, "callsign": "Tana Toraja", "id": "22418"},
+    {"tgid": 22422, "callsign": "Luwu Utara", "id": "22422"},
+    {"tgid": 22424, "callsign": "Luwu Timur", "id": "22424"},
+    {"tgid": 22426, "callsign": "Toraja Utara", "id": "22426"},
+    {"tgid": 22471, "callsign": "Makassar", "id": "22471"},
+    {"tgid": 22472, "callsign": "Parepare", "id": "22472"},
+    {"tgid": 22473, "callsign": "Palopo", "id": "22473"}
+  ]
+},
+  {
+  "region_code": 225,
+  "region_name": "Sulawesi Tenggara",
+  "talkgroups": [
+    {"tgid": 22501, "callsign": "Kolaka", "id": "22501"},
+    {"tgid": 22502, "callsign": "Konawe", "id": "22502"},
+    {"tgid": 22503, "callsign": "Muna", "id": "22503"},
+    {"tgid": 22504, "callsign": "Buton", "id": "22504"},
+    {"tgid": 22505, "callsign": "Konawe Selatan", "id": "22505"},
+    {"tgid": 22506, "callsign": "Bombana", "id": "22506"},
+    {"tgid": 22507, "callsign": "Wakatobi", "id": "22507"},
+    {"tgid": 22508, "callsign": "Kolaka Utara", "id": "22508"},
+    {"tgid": 22509, "callsign": "Konawe Utara", "id": "22509"},
+    {"tgid": 2251, "callsign": "Buton Utara", "id": "2251"},
+    {"tgid": 22511, "callsign": "Kolaka Timur", "id": "22511"},
+    {"tgid": 22512, "callsign": "Konawe Kepulauan", "id": "22512"},
+    {"tgid": 22513, "callsign": "Muna Barat", "id": "22513"},
+    {"tgid": 22514, "callsign": "Buton Tengah", "id": "22514"},
+    {"tgid": 22515, "callsign": "Buton Selatan", "id": "22515"},
+    {"tgid": 22571, "callsign": "Kendari", "id": "22571"},
+    {"tgid": 22572, "callsign": "Baubau", "id": "22572"}
+  ]
+},
+{
+  "region_code": 232,
+  "region_name": "Gorontalo",
+  "talkgroups": [
+    {"tgid": 23201, "callsign": "Gorontalo", "id": "23201"},
+    {"tgid": 23202, "callsign": "Boalemo", "id": "23202"},
+    {"tgid": 23203, "callsign": "Bone Bolango", "id": "23203"},
+    {"tgid": 23204, "callsign": "Pahuwato", "id": "23204"},
+    {"tgid": 23205, "callsign": "Gorontalo Utara", "id": "23205"},
+    {"tgid": 23271, "callsign": "Gorontalo", "id": "23271"}
+  ]
+},
+{
+  "region_code": 234,
+  "region_name": "Sulawesi Barat",
+  "talkgroups": [
+    {"tgid": 23401, "callsign": "Pasangkayu", "id": "23401"},
+    {"tgid": 23402, "callsign": "Mamuju", "id": "23402"},
+    {"tgid": 23403, "callsign": "Mamasa", "id": "23403"},
+    {"tgid": 23404, "callsign": "Poliwali Mandar", "id": "23404"},
+    {"tgid": 23405, "callsign": "Majene", "id": "23405"},
+    {"tgid": 23406, "callsign": "Mamuju Tengah", "id": "23406"}
+  ]
+},
+{
+  "region_code": 226,
+  "region_name": "Maluku",
+  "talkgroups": [
+    {"tgid": 22601, "callsign": "Maluku Tengah", "id": "22601"},
+    {"tgid": 22602, "callsign": "Maluku Tenggara", "id": "22602"},
+    {"tgid": 22603, "callsign": "Maluku Tenggara Barat", "id": "22603"},
+    {"tgid": 22604, "callsign": "Buru", "id": "22604"},
+    {"tgid": 22605, "callsign": "Seram Bagian Timur", "id": "22605"},
+    {"tgid": 22606, "callsign": "Seram Bagian Barat", "id": "22606"},
+    {"tgid": 22607, "callsign": "Kepulauan Aru", "id": "22607"},
+    {"tgid": 22608, "callsign": "Maluku Barat Daya", "id": "22608"},
+    {"tgid": 22609, "callsign": "Buru Selatan", "id": "22609"},
+    {"tgid": 22671, "callsign": "Ambon", "id": "22671"},
+    {"tgid": 22672, "callsign": "Tual", "id": "22672"}
+  ]
+},
+{
+  "region_code": 228,
+  "region_name": "Maluku Utara",
+  "talkgroups": [
+    {"tgid": 22801, "callsign": "Halmahera Barat", "id": "22801"},
+    {"tgid": 22802, "callsign": "Halmahera Tengah", "id": "22802"},
+    {"tgid": 22803, "callsign": "Halmahera Utara", "id": "22803"},
+    {"tgid": 22804, "callsign": "Halmahera Selatan", "id": "22804"},
+    {"tgid": 22805, "callsign": "Kepulauan Sula", "id": "22805"},
+    {"tgid": 22806, "callsign": "Halmahera Timur", "id": "22806"},
+    {"tgid": 22807, "callsign": "Pulau Morotai", "id": "22807"},
+    {"tgid": 22808, "callsign": "Pulau Taliabu", "id": "22808"},
+    {"tgid": 22871, "callsign": "Ternate", "id": "22871"},
+    {"tgid": 22872, "callsign": "Tidore Kepulauan", "id": "22872"}
+  ]
+},
+ {
+  "region_code": 227,
+  "region_name": "Papua",
+  "talkgroups": [
+    {"tgid": 22701, "callsign": "Merauke", "id": "22701"},
+    {"tgid": 22702, "callsign": "Jayawijaya", "id": "22702"},
+    {"tgid": 22703, "callsign": "Jayapura", "id": "22703"},
+    {"tgid": 22704, "callsign": "Nabire", "id": "22704"},
+    {"tgid": 22705, "callsign": "Kepulauan Yapen", "id": "22705"},
+    {"tgid": 22706, "callsign": "Biak Numfor", "id": "22706"},
+    {"tgid": 22707, "callsign": "Puncak Jaya", "id": "22707"},
+    {"tgid": 22708, "callsign": "Paniai", "id": "22708"},
+    {"tgid": 22709, "callsign": "Mimika", "id": "22709"},
+    {"tgid": 2271, "callsign": "Sarmi", "id": "2271"},
+    {"tgid": 22711, "callsign": "Keerom", "id": "22711"},
+    {"tgid": 22712, "callsign": "Pegunungan Bintang", "id": "22712"},
+    {"tgid": 22713, "callsign": "Yahukimo", "id": "22713"},
+    {"tgid": 22714, "callsign": "Tolikara", "id": "22714"},
+    {"tgid": 22715, "callsign": "Waropen", "id": "22715"},
+    {"tgid": 22716, "callsign": "Boven Digoel", "id": "22716"},
+    {"tgid": 22717, "callsign": "Mappi", "id": "22717"},
+    {"tgid": 22718, "callsign": "Asmat", "id": "22718"},
+    {"tgid": 22719, "callsign": "Supiori", "id": "22719"},
+    {"tgid": 2272, "callsign": "Mamberamo Raya", "id": "2272"},
+    {"tgid": 22721, "callsign": "Mamberamo Tengah", "id": "22721"},
+    {"tgid": 22722, "callsign": "Yalimo", "id": "22722"},
+    {"tgid": 22723, "callsign": "Lanny Jaya", "id": "22723"},
+    {"tgid": 22724, "callsign": "Nduga", "id": "22724"},
+    {"tgid": 22725, "callsign": "Puncak", "id": "22725"},
+    {"tgid": 22726, "callsign": "Dogiyai", "id": "22726"},
+    {"tgid": 22727, "callsign": "Intan Jaya", "id": "22727"},
+    {"tgid": 22728, "callsign": "Deiyai", "id": "22728"},
+    {"tgid": 22771, "callsign": "Jayapura", "id": "22771"}
+  ]
+},
+{
+  "region_code": 229,
+  "region_name": "Papua Barat",
+  "talkgroups": [
+    {"tgid": 22901, "callsign": "Sorong", "id": "22901"},
+    {"tgid": 22902, "callsign": "Manokwari", "id": "22902"},
+    {"tgid": 22903, "callsign": "Fakfak", "id": "22903"},
+    {"tgid": 22904, "callsign": "Sorong Selatan", "id": "22904"},
+    {"tgid": 22905, "callsign": "Raja Ampat", "id": "22905"},
+    {"tgid": 22906, "callsign": "Teluk Bintuni", "id": "22906"},
+    {"tgid": 22907, "callsign": "Teluk Wondama", "id": "22907"},
+    {"tgid": 22908, "callsign": "Kaimana", "id": "22908"},
+    {"tgid": 22909, "callsign": "Tambrauw", "id": "22909"},
+    {"tgid": 2291, "callsign": "Maybrat", "id": "2291"},
+    {"tgid": 22911, "callsign": "Manokwari Selatan", "id": "22911"},
+    {"tgid": 22912, "callsign": "Pegunungan Arfak", "id": "22912"},
+    {"tgid": 22971, "callsign": "Sorong", "id": "22971"}
+  ]
+}
+  ]
+}
+        
+
