@@ -1,7 +1,4 @@
-{"users":[
-{"fname":"GILANG","name":"GILANG GUMILAR","country":"JZ10-RAPI Daerah 10 Jawa Barat","callsign":"JZ10EGG","city":"","surname":"GUMILAR","radio_id":280001,"id":280001,"state":"Jawa Barat"},
-{"fname":"HADIYANTO","name":"HADIYANTO","country":"JZ10-RAPI Daerah 10 Jawa Barat","callsign":"JZ10LLB","city":"","surname":"","radio_id":280002,"id":280002,"state":"Jawa Barat"},
-{"fname":"SARJONO","name":"SARJONO","country":"JZ13-RAPI Daerah 13 Jawa Timur","callsign":"JZ13AIV","city":"","surname":"","radio_id":280003,"id":280003,"state":"Jawa Timur"},
+{"users":[{"fname":"GILANG","name":"GILANG GUMILAR","country":"JZ10-RAPI Daerah 10 Jawa Barat","callsign":"JZ10EGG","city":"","surname":"GUMILAR","radio_id":280001,"id":280001,"state":"Jawa Barat"},{"fname":"HADIYANTO","name":"HADIYANTO","country":"JZ10-RAPI Daerah 10 Jawa Barat","callsign":"JZ10LLB","city":"","surname":"","radio_id":280002,"id":280002,"state":"Jawa Barat"},{"fname":"SARJONO","name":"SARJONO","country":"JZ13-RAPI Daerah 13 Jawa Timur","callsign":"JZ13AIV","city":"","surname":"","radio_id":280003,"id":280003,"state":"Jawa Timur"},
 {"fname":"SUHARTO","name":"SUHARTO","country":"JZ13-RAPI Daerah 13 Jawa Timur","callsign":"JZ13NBM","city":"","surname":"","radio_id":280004,"id":280004,"state":"Jawa Timur"},
 {"fname":"FIRMAN","name":"FIRMAN HIDAYAT","country":"JZ13-RAPI Daerah 13 Jawa Timur","callsign":"JZ13AGU","city":"","surname":"HIDAYAT","radio_id":280005,"id":280005,"state":"Jawa Timur"},
 {"fname":"AMIRRUL","name":"AMIRRUL IMAN","country":"JZ09-RAPI Daerah 09 DKI Jakarta","callsign":"JZ09AGV","city":"","surname":"IMAN","radio_id":280006,"id":280006,"state":"DKI Jakarta"},
